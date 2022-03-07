@@ -1,0 +1,28 @@
+.Header {
+    border-bottom: 2px solid rgb(43, 41, 41);
+    margin-left:5rem;
+    width:80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    margin-top: 9px;
+    font-weight: bold;
+    padding: 9px;
+}
+.content{
+    width:80%;
+   margin-left:5rem;
+   margin-top:2rem;
+
+
+}
+.form{
+    display: flex;
+    flex-direction:column;
+    width: 20%;
+   
+}
+
+
