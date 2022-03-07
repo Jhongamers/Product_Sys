@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL:'https://productlist43.000webhostapp.com/',
+    baseURL:'http://productlist.42web.io',
 });
 
 export default api;
